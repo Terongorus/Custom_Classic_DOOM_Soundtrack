@@ -1,4 +1,4 @@
-# Custom_Classic_DOOM_Soundtrack
+# Custom Classic DOOM Soundtrack Mod
 This is a .WAD mod, which can be easily added to the Doom port which you are using (as long as it supports .mp3 files).
 The mod itself contains the following .mp3 files, courtesy of the great Andrew Hulshult (who did an amazing job at recreating the original Doom soundtrack with a touch of modern Doom goreness and metal and ripping and tearing):
 
@@ -50,4 +50,4 @@ You can check out Andrew's YouTube channel here: https://www.youtube.com/@Andrew
 
 For any complaints regarding the quality or the volume of the audio, please reach out here on GitHub. I always appreciate the feedback.
 
-https://tenor.com/view/idle-phase2doom-gif-25740534
+![idle-phase2doom](https://github.com/user-attachments/assets/a05be57a-f2e5-4f0e-a345-e7612aec23b7)
